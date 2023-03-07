@@ -1,0 +1,104 @@
+/* Header */
+#header-nav {
+  background-color: #BDBABA;
+  border-radius: 2;
+  border: 2;
+}
+
+.navbar-header{
+}
+
+.navbar-brand p{
+font-size: 26px;
+float: left;
+color: black;
+font-weight: bold;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+/*Finished Header */
+
+/*content */
+h1{
+	text-align: center;
+	font-weight: bold;
+
+}
+.containerfood{
+	background-color: #BDBABA;
+	border: 1px solid black;
+   	margin-top: 20px; 
+   	margin-right: auto;
+   	margin-left: 20px; 
+
+ }
+
+ .row{
+	width: 100%;
+
+}
+ .section {
+ 	text-align: center;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-top: 10px;
+	font-size: 18px;
+	font-weight: bold;
+ }
+
+ p{
+ 	text-align: justify;
+ 	padding: 5px 5px 5px 5px;
+ 	font-size: 16px;
+ 	font-weight: normal;
+}
+ * {
+    box-sizing: border-box;}
+
+@media (min-width: 1200px){
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+
+
+
+}
+
+@media (max-width: 767px){
+
+
+
+}
